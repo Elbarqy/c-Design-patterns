@@ -148,10 +148,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DesignPatterns.cpp" />
-    <ClCompile Include="factory.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FactoryHeader.h" />
+    <ClInclude Include="Builder.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
