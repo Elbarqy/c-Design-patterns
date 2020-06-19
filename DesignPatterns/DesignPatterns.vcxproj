@@ -152,6 +152,7 @@
   <ItemGroup>
     <ClInclude Include="FactoryHeader.h" />
     <ClInclude Include="Builder.h" />
+    <ClInclude Include="Prototype.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
